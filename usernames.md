@@ -1,6 +1,6 @@
-# Usernames available
+<h1 align="center" style="font-weight: bold;">Usernames available</h1>
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+<p align="center">Uma breve descrição sobre o que esse projeto faz e para quem ele é</p>
 
 
 ## FAQ
