@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-weight: bold;">Bluesky 3 Digits usernames 💻</h1>
+<h1 align="center" style="font-weight: bold;">Bluesky 3 digits usernames 💻</h1>
 
 <p align="center">List with all usernames available in Bluesky social app.</p>
 
