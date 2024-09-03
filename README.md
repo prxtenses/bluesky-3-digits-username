@@ -1,15 +1,6 @@
 
 <h1 align="center" style="font-weight: bold;">Bluesky 3 Digits usernames 💻</h1>
 
-<p align="center">
-
-
-
-<a href="#colab">Collaborators</a>
-<a href="#contribute">Contribute</a> 
-</p>
-
-
 <p align="center">List with all usernames available in Bluesky social app.</p>
 
 
