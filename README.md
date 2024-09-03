@@ -3,7 +3,7 @@
 
 <p align="center">List with all usernames available in Bluesky social app.</p>
 
-<p align="center">You may get the "Reserved handle" error, it means the username is reserved and cannot be taken.</p>
+<p align="center">❌ You may get the "Reserved handle" error, it means the username is reserved and cannot be taken. ❌</p>
 
 <p align="center">
 <a href="https://github.com/prxtenses">📱 Visit this project.</a>
